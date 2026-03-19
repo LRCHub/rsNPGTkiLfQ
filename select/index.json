@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "星屑ビーナス",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-19T16:48:08.264400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星屑ビーナス",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_星屑ビーナス_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星屑ビーナス(Live in church ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_星屑ビーナス(Live_in_church_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星屑ビーナス (Live in BUDOKAN blanc et noir)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_星屑ビーナス_(Live_in_BUDOKAN_blanc_et_noir)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星屑ビーナス",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_星屑ビーナス_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "星屑ビーナス",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_星屑ビーナス_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "星屑ビーナス",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_星屑ビーナス_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "星屑ビーナス(Lyrics) | Aimer",
+      "artist": "PerFS",
+      "has_synced": true,
+      "path": "select/07_星屑ビーナス(Lyrics)___Aimer_PerFS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "星屑ビーナス (Live in BUDOKAN blanc et noir)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_星屑ビーナス_(Live_in_BUDOKAN_blanc_et_noir)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "星屑ビーナス",
+      "artist": "Aimer(エメ)",
+      "has_synced": true,
+      "path": "select/09_星屑ビーナス_Aimer(エメ).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "星屑ビーナス - Hoshikuzu Venus",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_星屑ビーナス_-_Hoshikuzu_Venus_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星屑ビーナス",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_星屑ビーナス_Aimer.txt"
+    }
+  ]
+}
